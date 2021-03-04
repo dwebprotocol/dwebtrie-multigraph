@@ -1,27 +1,27 @@
 {
-  "name": "hypertrie-multigraph",
-  "version": "3.0.2",
-  "description": "A simple directed multigraph built on Hypertrie",
+  "name": "dwebtrie-multigraph",
+  "version": "3.0.0",
+  "description": "A simple directed multigraph built on dWebTrie",
   "main": "index.js",
   "scripts": {
     "test": "standard && tape test/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewosh/hypertrie-multigraph.git"
+    "url": "git+https://github.com/dwebprotocol/dwebtrie-multigraph.git"
   },
   "keywords": [
-    "hypertrie",
+    "dwebtrie",
     "multigraph"
   ],
-  "author": "Andrew Osheroff <andrewosh@gmail.com>",
+  "author": "PeepsLabs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewosh/hypertrie-multigraph/issues"
+    "url": "https://github.com/dwebprotocol/dwebtrie-multigraph/issues"
   },
-  "homepage": "https://github.com/andrewosh/hypertrie-multigraph#readme",
+  "homepage": "https://dwebx.org",
   "devDependencies": {
-    "hypertrie": "^4.0.0",
+    "dwebtrie": "^3.0.0",
     "random-access-memory": "^3.1.1",
     "standard": "^14.1.0",
     "tape": "^4.11.0"
