@@ -29,6 +29,7 @@
   "dependencies": {
     "call-me-maybe": "^1.0.1",
     "nanoiterator": "^1.2.0",
+    "sodium-native": "^3.2.1",
     "stackable-nanoiterator": "^1.0.0"
   }
 }
